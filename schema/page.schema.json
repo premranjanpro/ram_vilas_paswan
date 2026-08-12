@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ram Vilas Paswan Book Page",
+  "type": "object",
+  "required": [
+    "pageNumber",
+    "pageId",
+    "type",
+    "title",
+    "subtitle",
+    "sections",
+    "layout"
+  ],
+  "properties": {
+    "pageNumber": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 44
+    },
+    "pageId": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "type": {
+      "enum": [
+        "cover",
+        "chapter",
+        "references",
+        "closing"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "sectionId",
+          "content"
+        ],
+        "properties": {
+          "sectionId": {
+            "type": "string"
+          },
+          "heading": {
+            "type": "string"
+          },
+          "content": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "quote": {
+      "type": "string"
+    },
+    "media": {
+      "type": "object"
+    },
+    "layout": {
+      "type": "object"
+    },
+    "sources": {
+      "type": "array"
+    },
+    "editor": {
+      "type": "object"
+    },
+    "seo": {
+      "type": "object"
+    }
+  }
+}

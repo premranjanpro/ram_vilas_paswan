@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>धन्यवाद! | Thank You — जननायक रामविलास पासवान महा-ग्रंथ</title>
+<meta name="robots" content="noindex, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&family=Tiro+Devanagari+Hindi&display=swap" rel="stylesheet">
+<style>
+:root {
+  --n: #10233f;
+  --g: #d3a448;
+  --p: #ffffff;
+  --b: #e5d8bd;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: radial-gradient(circle at 10% 15%, #e9d9b6, transparent 30%), #10233f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Hind', sans-serif;
+  color: #fff;
+  padding: 20px;
+}
+.card {
+  background: rgba(16, 35, 63, 0.85);
+  border: 1px solid var(--g);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  max-width: 550px;
+  width: 100%;
+  padding: 40px 30px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, #d3a448, #9b2f24, #d3a448);
+}
+.icon {
+  font-size: 64px;
+  margin-bottom: 16px;
+  display: inline-block;
+  animation: pop 0.6s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+@keyframes pop {
+  0% { transform: scale(0); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+h1 {
+  font-family: 'Tiro Devanagari Hindi', serif;
+  font-size: 32px;
+  color: var(--g);
+  margin-bottom: 12px;
+}
+p {
+  font-size: 17px;
+  color: #d8deea;
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+.details-box {
+  background: rgba(255,255,255,0.06);
+  border: 1px dashed #d3a448;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 28px;
+  text-align: left;
+}
+.details-box div {
+  margin-bottom: 8px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.details-box div:last-child { margin-bottom: 0; }
+.btn {
+  display: inline-block;
+  background: var(--g);
+  color: var(--n);
+  text-decoration: none;
+  font-weight: 700;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(211, 164, 72, 0.4);
+}
+.footer-credit {
+  margin-top: 30px;
+  font-size: 13px;
+  color: #a0aec0;
+}
+.footer-credit a {
+  color: var(--g);
+  text-decoration: none;
+  font-weight: 600;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="icon">✅</div>
+  <h1>आपका संदेश प्राप्त हो गया है!</h1>
+  <p>हमारे प्रतिनिधि जल्द ही आपसे संपर्क करेंगे। जननायक रामविलास पासवान डिजिटल महा-ग्रंथ से जुड़ने के लिए धन्यवाद।</p>
+
+  <div class="details-box">
+    <div style="color:var(--g); font-weight:700; margin-bottom:10px;">📞 संपर्क सहायता (Contact Assistance):</div>
+    <div><span>👤</span> <strong>Usha Singh</strong></div>
+    <div><span>📱</span> <a href="tel:+916202254762" style="color:#fff; text-decoration:none;">+91 6202254762</a></div>
+    <div><span>✉️</span> <a href="mailto:gindiahr@gmail.com" style="color:#fff; text-decoration:none;">gindiahr@gmail.com</a></div>
+  </div>
+
+  <a href="index.html" class="btn">🏠 मुख्य पृष्ठ पर वापस जाएँ</a>
+</div>
+
+<div class="footer-credit">
+  Powered by <a href="https://gindiahr.com" target="_blank" rel="noopener">gindiahr.com</a>
+</div>
+
+</body>
+</html>

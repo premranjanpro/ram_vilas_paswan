@@ -1,0 +1,5 @@
+# Git ignore rules for Ram Vilas Paswan 100-Page Booklet Project
+*.zip
+*.log
+.DS_Store
+Thumbs.db

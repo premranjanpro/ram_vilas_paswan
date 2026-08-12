@@ -1,0 +1,226 @@
+{
+  "bookId": "ram-vilas-paswan-44-page",
+  "totalPages": 44,
+  "files": [
+    {
+      "pageNumber": 1,
+      "path": "data/pages/page-01.json",
+      "title": "जननायक की जीवंत स्मृति"
+    },
+    {
+      "pageNumber": 2,
+      "path": "data/pages/page-02.json",
+      "title": "भूमिका"
+    },
+    {
+      "pageNumber": 3,
+      "path": "data/pages/page-03.json",
+      "title": "समय की पृष्ठभूमि"
+    },
+    {
+      "pageNumber": 4,
+      "path": "data/pages/page-04.json",
+      "title": "जन्मभूमि"
+    },
+    {
+      "pageNumber": 5,
+      "path": "data/pages/page-05.json",
+      "title": "शिक्षा की राह"
+    },
+    {
+      "pageNumber": 6,
+      "path": "data/pages/page-06.json",
+      "title": "सरकारी सेवा का अवसर"
+    },
+    {
+      "pageNumber": 7,
+      "path": "data/pages/page-07.json",
+      "title": "समाजवादी प्रभाव"
+    },
+    {
+      "pageNumber": 8,
+      "path": "data/pages/page-08.json",
+      "title": "पहला चुनाव"
+    },
+    {
+      "pageNumber": 9,
+      "path": "data/pages/page-09.json",
+      "title": "जयप्रकाश आंदोलन"
+    },
+    {
+      "pageNumber": 10,
+      "path": "data/pages/page-10.json",
+      "title": "आपातकाल"
+    },
+    {
+      "pageNumber": 11,
+      "path": "data/pages/page-11.json",
+      "title": "1977 का जनादेश"
+    },
+    {
+      "pageNumber": 12,
+      "path": "data/pages/page-12.json",
+      "title": "हाजीपुर का रिश्ता"
+    },
+    {
+      "pageNumber": 13,
+      "path": "data/pages/page-13.json",
+      "title": "संसदीय वक्ता"
+    },
+    {
+      "pageNumber": 14,
+      "path": "data/pages/page-14.json",
+      "title": "जनता दल का दौर"
+    },
+    {
+      "pageNumber": 15,
+      "path": "data/pages/page-15.json",
+      "title": "श्रम और कल्याण"
+    },
+    {
+      "pageNumber": 16,
+      "path": "data/pages/page-16.json",
+      "title": "मंडल और प्रतिनिधित्व"
+    },
+    {
+      "pageNumber": 17,
+      "path": "data/pages/page-17.json",
+      "title": "रेल मंत्रालय"
+    },
+    {
+      "pageNumber": 18,
+      "path": "data/pages/page-18.json",
+      "title": "संचार क्रांति का समय"
+    },
+    {
+      "pageNumber": 19,
+      "path": "data/pages/page-19.json",
+      "title": "कोयला और खान"
+    },
+    {
+      "pageNumber": 20,
+      "path": "data/pages/page-20.json",
+      "title": "लोक जनशक्ति पार्टी"
+    },
+    {
+      "pageNumber": 21,
+      "path": "data/pages/page-21.json",
+      "title": "गठबंधन युग के शिल्पी"
+    },
+    {
+      "pageNumber": 22,
+      "path": "data/pages/page-22.json",
+      "title": "2002 का निर्णय"
+    },
+    {
+      "pageNumber": 23,
+      "path": "data/pages/page-23.json",
+      "title": "2004 की वापसी"
+    },
+    {
+      "pageNumber": 24,
+      "path": "data/pages/page-24.json",
+      "title": "बिहार 2005"
+    },
+    {
+      "pageNumber": 25,
+      "path": "data/pages/page-25.json",
+      "title": "राजनीतिक पराजय से वापसी"
+    },
+    {
+      "pageNumber": 26,
+      "path": "data/pages/page-26.json",
+      "title": "2014 का मोड़"
+    },
+    {
+      "pageNumber": 27,
+      "path": "data/pages/page-27.json",
+      "title": "खाद्य और सार्वजनिक वितरण"
+    },
+    {
+      "pageNumber": 28,
+      "path": "data/pages/page-28.json",
+      "title": "एक राष्ट्र, एक राशन कार्ड"
+    },
+    {
+      "pageNumber": 29,
+      "path": "data/pages/page-29.json",
+      "title": "कोविड-19 का संकट"
+    },
+    {
+      "pageNumber": 30,
+      "path": "data/pages/page-30.json",
+      "title": "उपभोक्ता संरक्षण"
+    },
+    {
+      "pageNumber": 31,
+      "path": "data/pages/page-31.json",
+      "title": "मानक और गुणवत्ता"
+    },
+    {
+      "pageNumber": 32,
+      "path": "data/pages/page-32.json",
+      "title": "दलित नेतृत्व"
+    },
+    {
+      "pageNumber": 33,
+      "path": "data/pages/page-33.json",
+      "title": "व्यक्तित्व"
+    },
+    {
+      "pageNumber": 34,
+      "path": "data/pages/page-34.json",
+      "title": "परिवार और सार्वजनिक जीवन"
+    },
+    {
+      "pageNumber": 35,
+      "path": "data/pages/page-35.json",
+      "title": "आलोचनाएं"
+    },
+    {
+      "pageNumber": 36,
+      "path": "data/pages/page-36.json",
+      "title": "उनका पक्ष"
+    },
+    {
+      "pageNumber": 37,
+      "path": "data/pages/page-37.json",
+      "title": "अंतिम वर्ष"
+    },
+    {
+      "pageNumber": 38,
+      "path": "data/pages/page-38.json",
+      "title": "विदाई"
+    },
+    {
+      "pageNumber": 39,
+      "path": "data/pages/page-39.json",
+      "title": "राष्ट्रीय सम्मान"
+    },
+    {
+      "pageNumber": 40,
+      "path": "data/pages/page-40.json",
+      "title": "विरासत"
+    },
+    {
+      "pageNumber": 41,
+      "path": "data/pages/page-41.json",
+      "title": "नई पीढ़ी के लिए सीख"
+    },
+    {
+      "pageNumber": 42,
+      "path": "data/pages/page-42.json",
+      "title": "कालक्रम"
+    },
+    {
+      "pageNumber": 43,
+      "path": "data/pages/page-43.json",
+      "title": "संदर्भ और संपादकीय टिप्पणी"
+    },
+    {
+      "pageNumber": 44,
+      "path": "data/pages/page-44.json",
+      "title": "समापन"
+    }
+  ]
+}
